@@ -1,3 +1,10 @@
+ 
+ THESE Are just some commmands
+ 
+ 
+ 
+ 
+ 
  matrix adjust.
  Identities = 20/60 (33%), Positives = 29/60 (48%), Gaps = 6/60 (10%)
  Frame = -3
